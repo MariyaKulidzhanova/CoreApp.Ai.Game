@@ -1,4 +1,4 @@
-﻿namespace GameServer.Library
+﻿namespace GameServer.Library.Models
 {
     public class Vector
     {

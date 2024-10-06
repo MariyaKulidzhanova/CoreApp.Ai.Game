@@ -1,4 +1,6 @@
-﻿namespace GameServer.Library
+﻿using GameServer.Library.Models;
+
+namespace GameServer.Library.Interfaces.Implementation
 {
     public class Move
     {
